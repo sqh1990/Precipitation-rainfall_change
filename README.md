@@ -1,4 +1,4 @@
-This folder contains the main codes, sample input data and main result files to reproduce the analysis and results presented in the paper "Characterizing elevation-dependent changes in rainfall extremes" Sun et al, 2024
+This folder contains the main codes, sample input data and main result files to reproduce the analysis and results presented in Sun et al, 2024
 
 “data”: A folder that contains input data which is used in the codes for plotting all figures in the paper. 
 Rf1day_tas_change_regrid_025dg.mat is data for percentage changes in extreme rainfall relative to changes in global or local temperature change；
